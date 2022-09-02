@@ -10,8 +10,7 @@ Hi, I’m a EPITECH's student. All the technologies concerning programming inter
     &ensp;&ensp; :telephone_receiver: +33 06 89 95 42 69
     
 &ensp;&ensp; <a href="https://www.linkedin.com/in/leandre-godet/" rel="some text"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="25" height="25"> Linkedin</a>
-    
-&ensp;&ensp; <a href="https://github.com/Leandre17" rel="some text"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" height="25"> Github</a>
+<a href="https://github.com/Leandre17" rel="some text"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25" height="25"> Github</a>
     
 
 </details>
