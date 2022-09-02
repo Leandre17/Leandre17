@@ -9,7 +9,7 @@ Hi, I’m a EPITECH's student. All the technologies concerning programming inter
     &ensp;&ensp; :email: leandre.godet@epitech.eu </br>
     &ensp;&ensp; :telephone_receiver: +33 06 89 95 42 69
     
-    <a href="https://github.com/Leandre17" rel="some text"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="42" height="42"></a>
+<a href="https://github.com/Leandre17" rel="some text"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="42" height="42"></a>
     
 <a href="https://www.linkedin.com/in/leandre-godet/" rel="some text"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="42" height="42"></a>
 </details>
