@@ -6,6 +6,6 @@ Hi, I’m a EPITECH's student. All the technologies concerning programming inter
 
 <details>
     <summary>Contact me</summary>
-    &ensp;&ensp;&ensp; :email: leandre.godet@epitech.eu </br>
-    &ensp;&ensp;&ensp; :telephone_receiver: +33 06 89 95 42 69
+    &ensp;&ensp; :email: leandre.godet@epitech.eu </br>
+    &ensp;&ensp; :telephone_receiver: +33 06 89 95 42 69
 </details>
