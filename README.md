@@ -4,6 +4,8 @@ Hi, I’m a EPITECH's student. All the technologies concerning programming inter
 
 ![Leandre17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandre17&show_icons=true&theme=merko&locale=fr&include_all_commits=true&count_private=true) ![Leandre17's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=Leandre17&theme=merko&hide_border=true&locale=fr)
 
+![](https://github-profile-trophy.vercel.app/?username=Leandre17&theme=radical&no-frame=true&row=1&&margin-w=30&no-bg=true&count_private=true)
+
 <details>
     <summary>Contact me</summary> </br>
     &ensp;&ensp; :email: leandre.godet@epitech.eu </br>
